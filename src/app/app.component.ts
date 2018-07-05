@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'My Pyxis App';
+  description = 'Once upon a time... in a galaxy far far away!'
 }
